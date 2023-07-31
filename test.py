@@ -1,1 +1,1 @@
-print("sub-repo")
+print("sub-repo submodule")
